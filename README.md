@@ -2,6 +2,9 @@
 
 • Game Overview 
 
+![](image/1.PNG)
+
+
 Modified Add the Numbers is a fun logic based game in which you control a box with a numerical value on it. 
 You can move left, right, up, down but whatever value is on the box that you replace effects your value. 
 Some will be positive, and some will be negative. A positive will add to your value, but a negative will subtract. 
@@ -24,3 +27,9 @@ Rules of Play
 
 • Given the previous figure of the game, if the green tile moves to the right it’s value will be the addition of the old green tile value [0] and the right tile value [1] which will means that the value of the new green tile will be [1] and the value of the old green tile will be replaced by a random value from [-1,1] let’s say computer chose it to be -1 then the next state would look be as represented in the next figure: 
  
+ ![](image/2.PNG)
+ 
+ 
+ the alpha bete algorithim 
+ 
+ ![](image/3.PNG)
